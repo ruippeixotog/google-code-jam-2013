@@ -1,3 +1,4 @@
+package qualification
 
 import scala.io.Source
 import java.io.PrintStream
