@@ -18,7 +18,7 @@ Here is a list of the problems currently in this repository. Problems marked wit
 
 * ✓ [A. Tic-Tac-Toe-Tomek][qualA] (`TicTacToeTomek.scala`)
 * ✓ [B. Lawnmower][qualB] (`Lawnmower.scala`)
-* ✗ [C. Fair and Square][qualC] (`FairAndSquare.scala`)
+* ✓ [C. Fair and Square][qualC] (`FairAndSquare.scala`)
 
 [1]: https://code.google.com/codejam
 [2]: http://www.scala-lang.org
