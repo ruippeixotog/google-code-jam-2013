@@ -21,6 +21,11 @@ Here is a list of the problems currently in this repository. Problems marked wit
 * ✓ [C. Fair and Square][qualC] (`FairAndSquare.scala`)
 * ✗ [D. Treasure][qualD] (`Treasure.scala`)
 
+### Round 1B
+
+* ✓ [A. Osmos][round1bA] (`Osmos.scala`)
+* ✗ [B. Falling Diamonds][round1bB] (`FallingDiamonds.scala`)
+
 [1]: https://code.google.com/codejam
 [2]: http://www.scala-lang.org
 [3]: http://www.scala-sbt.org
@@ -28,3 +33,5 @@ Here is a list of the problems currently in this repository. Problems marked wit
 [qualB]: https://code.google.com/codejam/contest/2270488/dashboard#s=p1
 [qualC]: https://code.google.com/codejam/contest/2270488/dashboard#s=p2
 [qualD]: https://code.google.com/codejam/contest/2270488/dashboard#s=p3
+[round1bA]: https://code.google.com/codejam/contest/2434486/dashboard#s=p0
+[round1bB]: https://code.google.com/codejam/contest/2434486/dashboard#s=p1
