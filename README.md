@@ -1,6 +1,6 @@
-# Solutions to Google Code Jam 2013 problems
+# Google Code Jam 2015
 
-This repository contains solutions to [Google Code Jam 2013][1] problems. These solutions are provided "as is". I give no guarantees that they will work as expected.
+This repository contains my solutions to the problems from [Google Code Jam 2013][1]. These solutions are provided "as is" - I give no guarantees that they will work as expected.
 
 ## Instructions
 
@@ -8,11 +8,11 @@ The solutions are written in [Scala][2] and are accompanied by a [sbt][3] launch
 
     $ ./sbt run
 
-A command-line prompt will appear for you to choose the solution to run. Remember that each problem expects its input in a suitable file with an `.in` extension in the repository root directory and outputs its result to a file with an `.out` extension.
+A command-line prompt will appear for you to choose the solution to run. Each problem expects its input in a suitable file with an `.in` extension in the repository root directory and outputs its result to a file with an `.out` extension.
 
-## Problems status
+## Problems Solved
 
-Here is a list of the problems currently in this repository. Problems marked with ✓ are done, while problems with ✗ are not complete and/or aren't efficient enough.
+The following is the list of the problems solved. Each problem identifier is specified between round brackets. Problems marked with ✓ are done, while problems with ✗ are not complete or aren't efficient enough for the problem's limits.
 
 ### Qualification Round
 
