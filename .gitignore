@@ -1,7 +1,11 @@
-bin
+*
+!/**/
+!*.*
+!Makefile
+
+.idea
+cmake-build-debug
 target/
 *.in
 *.out
-.idea
-.idea_modules
-.DS_Store
+*.exe

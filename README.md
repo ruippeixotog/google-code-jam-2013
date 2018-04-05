@@ -4,11 +4,19 @@ This repository contains my solutions to the problems from [Google Code Jam 2013
 
 ## Instructions
 
-The solutions are written in [Scala][2] and are accompanied by a [sbt][3] launch script that allows users to quickly compile and run Scala source code, without the need to have anything installed other than a standard Java compiler. You can run any solution by issuing the following command in the repository root directory:
+You can compile all Google Code Jam problems by issuing the following command:
 
-    $ ./sbt run
+    $ make
 
-A command-line prompt will appear for you to choose the solution to run. Each problem expects its input in a suitable file with an `.in` extension in the repository root directory and outputs its result to a file with an `.out` extension.
+If you want to compile only a specific problem, issue the following command, replacing `<problem_id>` with the section and identifier of the problem you want to compile (see section "Problems Solved" for the list of possible identifiers):
+
+    $ make <problem_id>
+
+Running a compiled problem is just a matter of executing a command similar to the next one, replacing `<problem_id>` with the identifier of the desired problem:
+
+    $ ./<problem_id>
+
+Unless stated otherwise, every problem in this repository reads from the standard input and writes to the standard output.
 
 ## Problems Solved
 
@@ -16,8 +24,8 @@ The following is the list of the problems solved. Each problem identifier is spe
 
 ### Qualification Round
 
-* ✓ [A. Tic-Tac-Toe-Tomek][qualA] (`TicTacToeTomek.scala`)
-* ✓ [B. Lawnmower][qualB] (`Lawnmower.scala`)
+* ✓ [A. Tic-Tac-Toe-Tomek][qualA] (`tic-tac-toe-tomek`)
+* ✓ [B. Lawnmower][qualB] (`lawnmower`)
 * ✓ [C. Fair and Square][qualC] (`FairAndSquare.scala`)
 * ✗ [D. Treasure][qualD] (`Treasure.scala`)
 
