@@ -26,7 +26,7 @@ The following is the list of the problems solved. Each problem identifier is spe
 
 * ✓ [A. Tic-Tac-Toe-Tomek][qualA] (`tic-tac-toe-tomek`)
 * ✓ [B. Lawnmower][qualB] (`lawnmower`)
-* ✓ [C. Fair and Square][qualC] (`FairAndSquare.scala`)
+* ✓ [C. Fair and Square][qualC] (`fair-and-square`)
 * ✗ [D. Treasure][qualD] (`Treasure.scala`)
 
 ### Round 1B
