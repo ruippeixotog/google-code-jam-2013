@@ -40,6 +40,11 @@ The following is the list of the problems solved. Each problem identifier is spe
 * ✗ [B. Pogo][round1cB] (`Pogo.scala`)
 * ✗ [B. The Great Wall][round1cC] (`TheGreatWall.scala`)
 
+### Round 2
+
+* ✓ [A. Ticket Swapping][round2a] (`ticket-swapping`)
+* ✓ [B. Many Prizes][round2b] (`many-prizes`)
+
 [1]: https://code.google.com/codejam
 [2]: http://www.scala-lang.org
 [3]: http://www.scala-sbt.org
@@ -52,3 +57,5 @@ The following is the list of the problems solved. Each problem identifier is spe
 [round1cA]: https://code.google.com/codejam/contest/2437488/dashboard#s=p0
 [round1cB]: https://code.google.com/codejam/contest/2437488/dashboard#s=p1
 [round1cC]: https://code.google.com/codejam/contest/2437488/dashboard#s=p2
+[round2a]: https://code.google.com/codejam/contest/2442487/dashboard#s=p0
+[round2b]: https://code.google.com/codejam/contest/2442487/dashboard#s=p1
